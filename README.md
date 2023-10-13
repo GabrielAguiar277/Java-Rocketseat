@@ -16,21 +16,36 @@
   Estamos apenas começando! Nessa aula você vai aprender mais sobre desenvolvimento em Java, Spring Framework e interações com banco de dados e seguir na construção do seu projeto usando as ferramentas mais modernas.
 </details>
 
-<h3>Timeline</h3>
+### Timeline
 
-<h4>-41:20 📌 -37:57 | Getter e Setter</h4>
+#### -41:20 📌 -37:57 | Getter e Setter
  
-<h4>-37:57 📌 -32:23 | Lombok</h4>
+#### -37:57 📌 -32:23 | Lombok
 
-<h4>-32:23 📌 -25:03 | H2 Banco</h4>
+#### -32:23 📌 -25:03 | H2 Banco
 
-<h4>-25:03 📌 -17:37 | Tabela Usuário</h4>
+#### -25:03 📌 -17:37 | Tabela Usuário
 
-<h4>-17:37 📌 -10:24 | Repository</h4>
+#### -17:37 📌 -10:24 | Repository
 
-<h4>-10:24 📌 -04:34 | Validar Username</h4>
+#### -10:24 📌 -04:34 | Validar Username
 
-<h4>-04:34 📌 -00:00 | Response Entity</h4>
+#### -04:34 📌 -00:00 | Response Entity
 
 
 ##
+
+## Aula 3 - Implementando Segurança nos dados do usuário
+
+<details>
+<summary><h3>Resumo</h3></summary>
+  Chegamos na metade do curso! Nessa aula você vai aprender aspectos cruciais de segurança e estruturação para garantir um acesso seguro a sua aplicação.
+</details>
+
+### Timeline
+
+#### -45:30 📌 -40:53 | Hash Senha
+#### -40:53 📌 -34:14 | Cadastro tarefa
+#### -34:14 📌 -25:40 | Filtro
+#### -25:40 📌 -18:57 | Continuando Filtro
+#### -06:36 📌 -00:00 | Password Decode
